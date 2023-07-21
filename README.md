@@ -1,6 +1,3 @@
-# Sure! Below is an example of a README file for the random password generator project. The README provides an overview of the project, explains how to use the password generator, and includes any necessary information for potential contributors.
-
-```
 # Random Password Generator
 
 ## Overview
