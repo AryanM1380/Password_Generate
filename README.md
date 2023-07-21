@@ -30,5 +30,3 @@ If you want to contribute to this project, feel free to submit pull requests or 
 5. Submit a pull request with a clear description of the changes made.
 
 In this README file, we provide an overview of the project, mention the prerequisites for running the program, and explain how to use the password generator. We also encourage contributions and provide guidelines for potential contributors to follow. Finally, we include information about the project's license.
-
-Remember to update the README with any specific details about your project as needed.
